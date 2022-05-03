@@ -61,7 +61,7 @@
         background-color: hsl(263, 55%, 52%);
         background-image: url('images/bg-pattern-quotation.svg');
         background-repeat: no-repeat;
-        background-size: 140px;
+        background-size: 135px;
         background-position: right 20px top;
     }
 
@@ -89,7 +89,7 @@
         background-color: hsl(217, 19%, 35%);
     }
 
-    #jeanette {
+    #jeanette, #kira {
         background-color: hsl(0, 0%, 100%);
     }
 
@@ -115,10 +115,6 @@
 
     #patrick img {
         border: solid 4px hsl(263, 55%, 52%);
-    }
-
-    #kira {
-        background-color: hsl(0, 0%, 100%);
     }
 
     footer {
